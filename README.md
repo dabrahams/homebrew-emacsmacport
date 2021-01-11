@@ -35,9 +35,9 @@ and then
  
 `$ brew install emacs-mac`
 
-if you using cask
+if you are using cask
 
-`brew cask install emacs-mac` or `brew cask install emacs-mac-spacemacs-icon`
+`brew install --cask emacs-mac` or `brew install --cask emacs-mac-spacemacs-icon`
 
 To disable this tap, please:
 
